@@ -4,3 +4,4 @@ This was made in roughly a week.
 This project uses a library called P5.
 We had 3rd party help when it came to the game physics under "check brick collision"
 
+![alt text](https://i.imgur.com/xKeZFND.png)
